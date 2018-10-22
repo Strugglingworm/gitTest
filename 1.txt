@@ -14,9 +14,8 @@
 8
 9
 10
-HEAD
 11
 这是gittest1的改变
 测试第一分支
 测试第一分支1
-gitTest1
+这是gitTest2的改变
