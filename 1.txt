@@ -21,3 +21,5 @@
 这是gitTest2的改变
 测试分支2
 测试分支3
+git stash 3
+git stash4
