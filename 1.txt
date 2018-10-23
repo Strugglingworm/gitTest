@@ -23,3 +23,5 @@
 测试分支3
 git stash 3
 git stash4
+git stash1
+git stash2
